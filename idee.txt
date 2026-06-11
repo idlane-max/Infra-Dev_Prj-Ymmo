@@ -1,0 +1,4 @@
+J'ai l'ajout d'un bien-être, car il y a un souci avec ça.
+- Change de style : la couleur y compris.
+- Essaie de voir si c'est totalement responsive.
+- Il y a certaines dans le header Il y avait un lien dans le header qui n'avait pas de page, et essaie de voir : soit on les enlève, soit on laisse et on raoute des pages.
